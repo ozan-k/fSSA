@@ -1,0 +1,13 @@
+
+
+     reactions
+r1 : predator -> : 100;
+r2 :  prey -> prey + prey : 300;
+r3 : predator + prey -> predator + predator: 1;
+
+     initial state
+     predator: 100;
+     prey: 100;
+
+     end time
+123;
