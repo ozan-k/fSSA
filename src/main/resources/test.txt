@@ -1,13 +1,16 @@
 
-
+// this is a comment line
      reactions
 r1 : predator -> : 100;
 r2 :  prey -> prey + prey : 300;
+// and another comment line
 r3 : predator + prey -> predator + predator: 1;
 
      initial state
      predator: 100;
      prey: 100;
-
+// here is another comment line
      end time
 123;
+
+//scaling factor 0.1;
